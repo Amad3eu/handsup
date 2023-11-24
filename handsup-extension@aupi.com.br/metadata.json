@@ -1,0 +1,8 @@
+{
+  "name": "HandsUp",
+  "description": "Your messaging monitor",
+  "uuid": "handsup-extension@aupi.com.br",
+  "shell-version": [
+    "42"
+  ]
+}
